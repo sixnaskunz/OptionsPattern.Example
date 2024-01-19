@@ -1,0 +1,6 @@
+@HostAddress = http://localhost:5101
+
+GET {{HostAddress}}/OptionsPattern/test
+Accept: application/json
+
+###
